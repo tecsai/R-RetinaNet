@@ -46,3 +46,9 @@ python3 generate_imageset.py
 python3 train.py
 ```
 
+## <div align="center">Demo</div>
+<p align="center"><img width="400" src="outputs/000001.jpg"></p>
+<p align="center"><img width="400" src="outputs/000002.jpg"></p>
+<p align="center"><img width="400" src="outputs/000003.jpg"></p>
+<p align="center"><img width="400" src="outputs/000004.jpg"></p>
+<p align="center"><img width="400" src="outputs/000005.jpg"></p>
