@@ -1,5 +1,4 @@
-# R-RetinaNet
-## <div align="center">R-RetinaNet</div>
+# <div align="center">R-RetinaNet</div>
 
 This project was built for for arbitrary-oriented object detection, named R-RetinaNet. 
 Note that this code refer to [ming71#Rotated-RetinaNet](https://github.com/ming71/Rotated-RetinaNet)
